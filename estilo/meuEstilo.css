@@ -1,0 +1,15 @@
+h1{
+    color:rgb(93, 223, 136);
+}
+p{
+    font-size: 26px;
+    font-family: Arial;
+}
+
+.meuParagrafo{
+    font-size: 10px;
+}
+button{
+    background-color: rgb(93, 223, 136);
+    
+}
